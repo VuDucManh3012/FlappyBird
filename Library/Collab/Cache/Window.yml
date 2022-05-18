@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Animation.meta
+    - Assets/Animation/BackGround2.anim
+    - Assets/Animation/BackGround2.anim.meta
+    - Assets/Animation/BackGround2.controller
+    - Assets/Animation/BackGround2.controller.meta
+    - Assets/Animation/Bird1.anim
+    - Assets/Animation/Bird1.anim.meta
+    - Assets/Animation/Mobile - Flappy Bird - Version 12 Sprites_74.controller
+    - Assets/Animation/Mobile - Flappy Bird - Version 12 Sprites_74.controller.meta
+    - Assets/Font.meta
+    - Assets/Font/04B_19__.TTF
+    - Assets/Font/04B_19__.TTF.meta
+    - Assets/Font/about.gif
+    - Assets/Font/about.gif.meta
+    - Assets/Prefab.meta
+    - Assets/Prefab/BackGround2.prefab
+    - Assets/Prefab/BackGround2.prefab.meta
+    - Assets/Prefab/Pipe.prefab
+    - Assets/Prefab/Pipe.prefab.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Sciprt.meta
+    - Assets/Sciprt/AddScore.cs
+    - Assets/Sciprt/AddScore.cs.meta
+    - Assets/Sciprt/FlyBird.cs
+    - Assets/Sciprt/FlyBird.cs.meta
+    - Assets/Sciprt/GameManager.cs
+    - Assets/Sciprt/GameManager.cs.meta
+    - Assets/Sciprt/Move.cs
+    - Assets/Sciprt/Move.cs.meta
+    - Assets/Sciprt/PipeSpawn.cs
+    - Assets/Sciprt/PipeSpawn.cs.meta
+    - Assets/Sciprt/Score.cs
+    - Assets/Sciprt/Score.cs.meta
+    - Assets/Spirtes.meta
+    - Assets/Spirtes/Flappy_Bird_icon.png
+    - Assets/Spirtes/Flappy_Bird_icon.png.meta
+    - Assets/Spirtes/Mobile - Flappy Bird - Version 12 Sprites.png
+    - Assets/Spirtes/Mobile - Flappy Bird - Version 12 Sprites.png.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: Finish
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
